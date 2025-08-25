@@ -1,4 +1,6 @@
 #Image Classification (CNN)
+
+
 Project Overview
 
 This project builds a Convolutional Neural Network (CNN) to classify images of dogs and cats using the Kaggle Dogs vs Cats dataset (link - /kaggle/input/dogs-vs-cats).
