@@ -1,4 +1,4 @@
-#Image Classification (CNN)
+Image Classification (CNN)
 
 
 Project Overview
